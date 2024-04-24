@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/romakail/TTS_intensive_kz/blob/main/03_acoustic_models/notebooks/week_07_tts_seminar.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Homework Assingnment on Acoustic models
 
 This is a seminar and homework assignment where you will get acquainted with the FastPitch architecture and related concepts. The notebooks for the seminar and homework are located in the folder `week_07_tts_am/notebooks`.
